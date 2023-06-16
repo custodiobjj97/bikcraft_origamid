@@ -3,10 +3,18 @@
 @import "utilidades/core.css";
 
 @import 'global/header.css';
+@import 'global/footer.css';
+
+
 @import 'home/introducao.css';
+@import 'home/tecnologia.css';
+@import 'home/parceiros.css';
+@import 'home/depoimento.css';
 
 @import "./utilidades/components.css";
 @import ".home/introducao.css";
 
 
 @import "./bicicletas/bicicletas-lista.css";
+
+@import "./seguros/seguros.css"
